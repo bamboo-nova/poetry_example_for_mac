@@ -1,0 +1,2 @@
+# poetry_example_for_mac
+macでもpoetryを使って深層学習ライブラリの開発環境を構築する方法
